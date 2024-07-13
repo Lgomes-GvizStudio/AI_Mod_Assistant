@@ -4,7 +4,7 @@
  / __ |_/ /  / /|_/ / /_/ / // / / __ |_\ \_\ \_/ /_\ \  / / / __ |/    / / /   
 /_/ |_/___/ /_/  /_/\____/____/ /_/ |_/___/___/___/___/ /_/ /_/ |_/_/|_/ /_/  
 --------------------------------------------------------------------------------                                                                                
-Game : CYBERPUNK2077-------- AI Model : LLama3------------------ Version : 1.0.0
+Game : CYBERPUNK2077-----------Model : LLama3------------------- Version : 1.0.0
 -------------------------------------------------------------------------------- 
 
 AI Mod Assistant is a AI assistant that will give answer's about how Modding .
@@ -22,11 +22,12 @@ https://www.python.org/downloads/
 -------------------------------Default Usage------------------------------------
 Compile AI_Mod_Assit.py 
 1 > Will create the AI model
+2 > Will start the created model
     >send your message to AI Assistant  
-    > send /? for Ollama Helper
-2 > GitHub repository link
-3 > System and AI Assistant Info
-4 > Close 
+    >send /? for Ollama Helper
+3 > GitHub repository link
+4 > System and AI Assistant Info
+5 > Close 
 -----------------------------Tunning and Extras---------------------------------
 Lamma3.cyberpunk2077modAssistantFile is the modelfile for ollama  to create the AI assitant model.
 Can be edit for better performance , specify the usecase or even to assist in another task.
