@@ -39,14 +39,14 @@ Author : Lgomes_GvizStudio
 # Display the banner
 Write-Host $bannerText -ForegroundColor Cyan
 Write-Host "*"
-Write-Host "This script is running with administrative privileges!" -ForegroundColor Cyan
+Write-Host "AI Mod Assistant is running with administrative privileges!" -ForegroundColor Cyan
 Write-Host "*"
 
 }
 
 # Function to display the menu
 function Show-Menu {
-    Write-Host "Select an option:" -ForegroundColor Cyan
+    Write-Host "Select :" -ForegroundColor Cyan
     Write-Host "1. Run Model" -ForegroundColor Red
     Write-Host "2. GitRepo " -ForegroundColor Red
     Write-Host "3. System " -ForegroundColor Red
