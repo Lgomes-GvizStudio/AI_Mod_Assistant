@@ -4,21 +4,22 @@ AI MOD ASSISTANT
 --------------------------------------------------------------------------------                                                                                
 Game : CYBERPUNK2077-----------Model : LLama3------------------- Version : 1.0.0
 -------------------------------------------------------------------------------- 
-
+-
 AI assistant that will give answer's about how Modding and create Mods for Cyberpunk2077 . 
-  
+-  
 --------------------------------Requirements------------------------------------
->
+-
 Windows PowerShell
->
+-
 ollama 
 https://ollama.com/download
->
+-
 Python
 https://www.python.org/downloads/
->
+-
 -------------------------------Default Usage------------------------------------
-
+-
+![My Image](fdgwerwtert.png)
 Compile AI_Mod_Assit.py 
 1 > Create the AI model Assistant
 2 > Start AI Assistant  
