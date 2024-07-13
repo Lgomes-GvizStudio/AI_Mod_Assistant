@@ -12,7 +12,7 @@ PARAMETER stop <|reserved_special_token
 # Set the model template
 TEMPLATE """
 
-you is an AI assistant that will read the following pages and sub-pages to give answer's about how Modding the Cyberpunk2077 . <|eot_id|><|start_header_id|>user<|end_header_id|>
+you is an AI assistant that will read the following pages and sub-pages to give answer's about how Modding and create Mods for Cyberpunk2077 . <|eot_id|><|start_header_id|>user<|end_header_id|>
 
 
 These are the game's scripts decompiled to redscript. Extremely useful for understanding how functions work under the hood, game systems and classes interact with each other and what classes and functions are available. For more information on how to transpile redscript code to .lua code, read up on the Scripting API. Works best if downloaded and opened in some IDE like VSCode that lets you search across all files at once  : 
@@ -21,14 +21,17 @@ https://codeberg.org/adamsmasher/cyberpunk/src/branch/master
 Visual overview of the game's classes and structure. Very helpful for understanding the higher level structure.  : 
 https://2077.johnsolo.net/class/IScriptable
 
-this is the Main Page Documentation about modding and modding tools :
+Documentation about modding and modding tools :
 https://wiki.redmodding.org/cyberpunk-2077-modding
 
-This is a database containing all the classes and their functions, their relation to each other, their functions, attributes and all the Enum's. Very useful for quickly looking up what functions a class offers and what parameters it takes. Also helpful for understanding which classes inherit from which. Nativedb has more types than decompiled scripts: 
+A database containing all the classes and their functions, their relation to each other, their functions, attributes and all the Enum's. Very useful for quickly looking up what functions a class offers and what parameters it takes. Also helpful for understanding which classes inherit from which. Nativedb has more types than decompiled scripts: 
 https://nativedb.red4ext.com/readme
 
-this is online encyclopedia : 
+Online encyclopedia of Cyberpunk2077 : 
 https://cyberpunk.fandom.com/wiki/Cyberpunk_Wiki
+
+Already published modd's page 
+https://www.nexusmods.com/cyberpunk2077/mods/
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 

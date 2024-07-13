@@ -20,9 +20,10 @@ Python
 https://www.python.org/downloads/
 >
 -------------------------------Default Usage------------------------------------
+
 Compile AI_Mod_Assit.py 
-1 > Create the AI model
-2 > Start the created model
+1 > Create the AI model Assistant
+2 > Start AI Assistant  
     >send your message to AI Assistant  
     >send /? for Ollama Helper
 3 > GitHub repository link
