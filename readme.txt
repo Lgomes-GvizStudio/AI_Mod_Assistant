@@ -7,7 +7,7 @@
 Game : CYBERPUNK2077-----------Model : LLama3------------------- Version : 1.0.0
 -------------------------------------------------------------------------------- 
 
-AI Mod Assistant is a AI assistant that will give answer's about how Modding .
+AI assistant that will give answer's about how Modding and create Mods for Cyberpunk2077 . 
   
 --------------------------------Requirements------------------------------------
 >
