@@ -12,13 +12,13 @@ PARAMETER stop <|reserved_special_token
 # Set the model template
 TEMPLATE """
 
-you is a code assistant that will read the following pages and give to answer's about how Modding the Cyberpunk2077 . <|eot_id|><|start_header_id|>user<|end_header_id|>
+you is an assistant that will read the following pages and sub-pages to give answer's about how Modding the Cyberpunk2077 . <|eot_id|><|start_header_id|>user<|end_header_id|>
 
 this is the gamecode structure  : 
 https://2077.johnsolo.net/class/IScriptable
-this is the main page of already documentation about modding and moding tools :
+this is the Documentation about modding and modding tools :
 https://wiki.redmodding.org/cyberpunk-2077-modding
-this contains all definitions of the gamecode : 
+this contains the native database of the gamecode: 
 https://nativedb.red4ext.com/readme
 this is online encyclopedia : 
 https://cyberpunk.fandom.com/wiki/Cyberpunk_Wiki
