@@ -30,8 +30,6 @@ $bannerText = @"
  / __ |_/ /  / /|_/ / /_/ / // / / __ |_\ \_\ \_/ /_\ \  / / / __ |/    / / /   
 /_/ |_/___/ /_/  /_/\____/____/ /_/ |_/___/___/___/___/ /_/ /_/ |_/_/|_/ /_/  
 --------------------------------------------------------------------------------                                                                                
-Game : CYBERPUNK2077
-AI Model : LLama3
 Version : 1.0.0
 Author : Lgomes_GvizStudio
 --------------------------------------------------------------------------------                                                                                                                                                                                                                                                                        
@@ -48,7 +46,7 @@ Write-Host "*"
 function Show-Menu {
     Write-Host "Select :" -ForegroundColor Cyan
     Write-Host "1. Run Model" -ForegroundColor Red
-    Write-Host "2. GitRepo " -ForegroundColor Red
+    Write-Host "2. GitRepository " -ForegroundColor Red
     Write-Host "3. System " -ForegroundColor Red
     Write-Host "4. Exit" -ForegroundColor Red
 }
@@ -74,6 +72,7 @@ function Handle-Selection {
         "2" {
             Write-Host "Opening GitRepository" -ForegroundColor Yellow
             Start-Process "https://github.com/Lgomes-GvizStudio/AI_Mod_Assistant"
+            clear-ps
             
         }
         "3" {
@@ -83,6 +82,10 @@ function Handle-Selection {
             Write-Host "*"
             python --version
             ollama --version
+            Write-Host "Game : CYBERPUNK2077" -ForegroundColor Red
+            Write-Host "AI Model : LLama3" -ForegroundColor Red
+            
+            
             Write-Host "*"
             
         }

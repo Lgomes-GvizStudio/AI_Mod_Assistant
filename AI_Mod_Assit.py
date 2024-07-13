@@ -53,8 +53,6 @@ $bannerText = @"
  / __ |_/ /  / /|_/ / /_/ / // / / __ |_\ \_\ \_/ /_\ \  / / / __ |/    / / /   
 /_/ |_/___/ /_/  /_/\____/____/ /_/ |_/___/___/___/___/ /_/ /_/ |_/_/|_/ /_/  
 --------------------------------------------------------------------------------                                                                                
-Game : CYBERPUNK2077
-AI Model : LLama3
 Version : 1.0.0
 Author : Lgomes_GvizStudio
 --------------------------------------------------------------------------------                                                                                                                                                                                                                                                                        
@@ -107,6 +105,10 @@ function Handle-Selection {
             Write-Host "*"
             python --version
             ollama --version
+            Write-Host "Game : CYBERPUNK2077" -ForegroundColor Yellow
+            Write-Host "AI Model : LLama3" -ForegroundColor Yellow
+            
+            
             Write-Host "*"
             
         }
