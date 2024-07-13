@@ -7,7 +7,7 @@
 Game : CYBERPUNK2077-------- AI Model : LLama3------------------ Version : 1.0.0
 -------------------------------------------------------------------------------- 
 
-AI Mod Assistant is a AI assistant that will give to answer's about how Modding .
+AI Mod Assistant is a AI assistant that will give answer's about how Modding .
   
 --------------------------------Requirements------------------------------------
 >
@@ -28,9 +28,9 @@ Compile AI_Mod_Assit.py
 3 > System and AI Assistant Info
 4 > Close 
 -----------------------------Tunning and Extras---------------------------------
-Lamma3.cyberpunk2077modAssistantFile is the modelfile for ollama  to create the AI assitant model
-can be edit for better performance , specify usecase or even to Assist for another task.
-more info at https://llama.meta.com/docs/model-cards-and-prompt-formats/meta-llama-3/#model-card
+Lamma3.cyberpunk2077modAssistantFile is the modelfile for ollama  to create the AI assitant model.
+Can be edit for better performance , specify the usecase or even to assist in another task.
+More info at https://llama.meta.com/docs/model-cards-and-prompt-formats/meta-llama-3/#model-card
 --------------------------------------------------------------------------------
 By Lgomes_GvizStudio
 
