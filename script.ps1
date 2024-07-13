@@ -73,6 +73,8 @@ function Handle-Selection {
         }
         "2" {
             Write-Host "Opening GitRepository" -ForegroundColor Yellow
+            Start-Process "https://github.com/Lgomes-GvizStudio/AI_Mod_Assistant"
+            
         }
         "3" {
             clear-ps

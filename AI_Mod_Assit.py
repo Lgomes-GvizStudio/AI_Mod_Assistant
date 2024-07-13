@@ -1,6 +1,7 @@
 import os
 import subprocess
 
+
 def create_powershell_script(script_content, script_path):
     with open(script_path, 'w') as file:
         file.write(script_content)
@@ -70,7 +71,7 @@ Write-Host "*"
 function Show-Menu {
     Write-Host "Select :" -ForegroundColor Cyan
     Write-Host "1. Run Model" -ForegroundColor Red
-    Write-Host "2. GitRepo " -ForegroundColor Red
+    Write-Host "2. GitRepository " -ForegroundColor Red
     Write-Host "3. System " -ForegroundColor Red
     Write-Host "4. Exit" -ForegroundColor Red
 }
@@ -95,6 +96,9 @@ function Handle-Selection {
         }
         "2" {
             Write-Host "Opening GitRepository" -ForegroundColor Yellow
+            Start-Process "https://github.com/Lgomes-GvizStudio/AI_Mod_Assistant"
+            clear-ps
+            
         }
         "3" {
             clear-ps
