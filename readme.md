@@ -36,7 +36,7 @@ AI assistant that will give answers about modding and creating mods for Cyberpun
 
 
 2. **Start AI Assistant**
-   - This Selection will start an conversation with your Custom AI model 
+   - If you have created the AI Mod Assistant This Selection will start an conversation with it
    - Send your message to AI Assistant.
    - Send `/?` for Ollama Helper.
 
