@@ -50,7 +50,7 @@ AI assistant that will give answers about modding and creating mods for Cyberpun
 
 **Edit and Compile Link_Extraction.py**
 
-- Use this script to extract links from a page and build your own data for the AI model.
+- Use this script to extract links from an page and build your own data for the AI model.
 - [More info at Meta Llama 3 Model Cards and Prompt Formats](https://llama.meta.com/docs/model-cards-and-prompt-formats/meta-llama-3/#model-card)
 
 ---
