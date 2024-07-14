@@ -24,22 +24,32 @@ AI assistant that will give answers about modding and creating mods for Cyberpun
 
 ## DEFAULT USAGE
 
+**Compile AI_Mod_Assit.py**
+- this will Open AI mod Assistant in your Windows PowerShell
+
 ![My Image](fdgwerwtert.png)
 
-**Compile AI_Mod_Assit.py**
 
 1. **Create the AI model Assistant.**
-   
+![My Image](qweqweqweqwess.png)
+- Ollama you Download LLama3 And use Lamma3.cyberpunk2077modAssistantFile to build your Custom AI Model
+
 
 2. **Start AI Assistant**
+   - This Selection will start an conversation with your Custom AI model 
    - Send your message to AI Assistant.
    - Send `/?` for Ollama Helper.
 
+
 3. **GitHub Repository Link**
+-Open GithubRepository on your Browser
+
 
 4. **System and AI Assistant Info**
+-Print on WindowsPower Shell the system info
 
 5. **Close**
+-Close this Application
 
 ---
 
