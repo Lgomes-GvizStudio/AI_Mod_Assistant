@@ -23,9 +23,12 @@ https://ollama.com/download
 Python 
 https://www.python.org/downloads/
 -
-beautifulsoup4 
+beautifulsoup4
+-
 pip install requests beautifulsoup4
+-
 or
+-
 https://www.crummy.com/software/BeautifulSoup/bs4/download/4.0/
 -------------------------------Default Usage------------------------------------
 -
