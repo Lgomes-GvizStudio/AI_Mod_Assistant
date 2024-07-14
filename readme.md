@@ -26,8 +26,10 @@ AI assistant that will give answers about modding and creating mods for Cyberpun
 
 ![My Image](fdgwerwtert.png)
 
-1. **Compile AI_Mod_Assit.py**
-   - Create the AI model Assistant.
+**Compile AI_Mod_Assit.py**
+
+1. **Create the AI model Assistant.**
+   
 
 2. **Start AI Assistant**
    - Send your message to AI Assistant.
