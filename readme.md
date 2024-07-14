@@ -1,3 +1,14 @@
+![My Image](sdfwerwer.png)
+
+# AI MOD ASSISTANT
+
+---
+
+### Game: CYBERPUNK2077
+### Model: LLama3
+### Version: 1.0.0
+
+---
 AI assistant that will give answers about modding and creating mods for Cyberpunk2077.
 
 ---
