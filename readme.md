@@ -15,15 +15,15 @@ AI assistant that will give answer's about how Modding and create Mods for Cyber
 -  
 --------------------------------Requirements------------------------------------
 -
-Windows PowerShell (User Interface)
+Windows PowerShell 
 -
-ollama (Build AI Model)
+ollama 
 https://ollama.com/download
 -
-Python (Scripting)
+Python 
 https://www.python.org/downloads/
 -
-beautifulsoup4 (WebScrapping)
+beautifulsoup4 
 pip install requests beautifulsoup4
 or
 https://www.crummy.com/software/BeautifulSoup/bs4/download/4.0/
