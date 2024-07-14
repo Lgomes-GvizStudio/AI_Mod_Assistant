@@ -25,7 +25,7 @@ AI assistant that will give answers about modding and creating mods for Cyberpun
 ## DEFAULT USAGE
 
 **Compile AI_Mod_Assit.py**
-- this will Open AI mod Assistant in your Windows PowerShell
+- this will Open AI mod Assistant interface in your Windows PowerShell
 
 ![My Image](fdgwerwtert.png)
 
