@@ -30,7 +30,7 @@ pip install requests beautifulsoup4
 or
 -
 https://www.crummy.com/software/BeautifulSoup/bs4/download/4.0/
--------------------------------Default Usage------------------------------------
+-------------------------------Default Usage-------------------------------------
 -
 ![My Image](fdgwerwtert.png)
 Compile AI_Mod_Assit.py
