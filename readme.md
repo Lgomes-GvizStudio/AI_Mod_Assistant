@@ -56,5 +56,9 @@ AI assistant that will give answers about modding and creating mods for Cyberpun
 - [More info at Meta Llama 3 Model Cards and Prompt Formats](https://llama.meta.com/docs/model-cards-and-prompt-formats/meta-llama-3/#model-card)
 
 ---
+## AI Assistant  Overview Video
+https://www.youtube.com/watch?v=HVmKtV3hIbE
+
+---
 
 *By Lgomes_GvizStudio*
