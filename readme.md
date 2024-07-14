@@ -49,7 +49,7 @@ Compile AI_Mod_Assit.py
 -----------------------------Tunning and Extras---------------------------------
 Lamma3.cyberpunk2077modAssistantFile is the modelfile for ollama  to create the AI assitant model.
 Can be edit for better performance , specify the usecase or even to assist in another task.
-Edit and Compile Link_Extraction to extract links of a page and build your own Data for the AI assitant model .
+Edit and Compile Link_Extraction.py to extract links of a page and build your own Data for the AI assitant model .
 More info at https://llama.meta.com/docs/model-cards-and-prompt-formats/meta-llama-3/#model-card
 --------------------------------------------------------------------------------
 By Lgomes_GvizStudio
