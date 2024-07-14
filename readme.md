@@ -13,7 +13,7 @@ Version : 1.0.0
 -
 AI assistant that will give answer's about how Modding and create Mods for Cyberpunk2077 . 
 -  
---------------------------------Requirements------------------------------------
+  * REQUIREMENTS
 -
 Windows PowerShell 
 -
@@ -30,7 +30,8 @@ pip install requests beautifulsoup4
 or
 -
 https://www.crummy.com/software/BeautifulSoup/bs4/download/4.0/
--------------------------------Default Usage-------------------------------------
+-
+  * DEFAULT USAGE
 -
 ![My Image](fdgwerwtert.png)
 Compile AI_Mod_Assit.py
