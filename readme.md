@@ -32,7 +32,7 @@ AI assistant that will give answers about modding and creating mods for Cyberpun
 
 1. **Create the AI model Assistant.**
 ![My Image](qweqweqweqwess.png)
-- Ollama you Download LLama3 And use Lamma3.cyberpunk2077modAssistantFile to build your Custom AI Model
+- Ollama will Download LLama3 And use Lamma3.cyberpunk2077modAssistantFile to build your Custom AI Model
 
 
 2. **Start AI Assistant**
